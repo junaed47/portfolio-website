@@ -100,8 +100,8 @@ const services = [
 ];
 
 const stats = [
-  { value: "900+", label: "Videos Delivered" },
-  { value: "120+", label: "Happy Creators" },
+  { value: "110+", label: "Videos Delivered" },
+  { value: "25+", label: "Happy Creators" },
   { value: "6+", label: "Years Editing" },
   { value: "48h", label: "Average Turnaround" },
 ];
